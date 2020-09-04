@@ -1,0 +1,35 @@
+body {
+    background-color: white;
+}
+
+div {
+    border: 3px solid rgb(120, 4, 130);
+    width: 700px;
+    height: 200px;
+    justify-content: center;
+    float: left;
+    
+}
+
+img {
+    width: 250px;
+    height: 100px;
+    margin: 100px auto;
+    float: left;
+    padding-left: 10px;
+    margin-top: 50px;
+    margin-right: 20px;
+}
+
+p {
+    text-align: justify;
+    width: 60%;
+    float: left; 
+    
+}
+
+h2 {
+    margin-bottom: -5px;
+    margin-top: 40px;
+}
+
